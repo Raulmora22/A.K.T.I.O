@@ -1,0 +1,27 @@
+{
+  "folders":
+  [
+    {
+      "name": "Root",
+      "path": "."
+    }
+  ],
+  "settings":
+  {
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "build_system": "Automatic",
+
+    //SublimeOnSaveBuild package (optional)
+    "filename_filter": "\\.(css|js|sass|less|scss|y)$",
+    "build_on_save": 1
+  },
+  "build_systems":
+  [
+    {
+      "name": "Make",
+      "working_dir" : "$project_path",
+      "cmd": ["make"]
+    }
+  ]
+}

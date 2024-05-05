@@ -1,0 +1,25 @@
+# Testing files
+mongoose.conf
+mongoose*.exe
+
+# Private data
+fonts/EngraversGothic-Regular-webfont.*
+
+# Per-user stuff
+*.sublime-workspace
+
+# NPM & Bower installations
+node_modules/
+npm-debug.log
+bower_components/
+
+# Generated files
+js/*
+css/*
+fonts/*
+
+# Backup/temporary files
+*~
+
+# Saved layouts
+layouts/
