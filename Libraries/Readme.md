@@ -2,27 +2,11 @@
 
 ## Resources
 
-- [Freecad - @linuxserver](https://www.github.com/octokatherine)
-- [Kicad - @linuxserver](https://www.github.com/octokatherine)
-- [Whatsupdocker - @linuxserver](https://www.github.com/octokatherine)
-- [code-server - @linuxserver](https://www.github.com/octokatherine)
-
-## Dependencies
-
-```bash
-  sudo apt install docker.io
-  <img title="a title" alt="Alt text" src="/imag">
-```
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
+- [kbd - @foostan](https://github.com/foostan/kbd)
+- [kiswitch - @kiswitch](https://github.com/kiswitch/kiswitch)
+- [scottokeebs - @joe-scotto](https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad)
+- [keyboard_parts.pretty - @tmk](https://github.com/tmk/keyboard_parts.pretty)
+- [navcaps - @wolfwood](https://github.com/wolfwood/navcaps)
+- [MX_V2 - @ai03-2725](https://github.com/ai03-2725/MX_V2)
+- [marbastlib - @ebastler](https://github.com/ebastler/marbastlib)
+- [Keebio_Parts.pretty - @keebio](https://github.com/keebio/Keebio-Parts.pretty)
