@@ -1,6 +1,6 @@
 # A.K.T.I.O
 
-## Resources
+## Libraries
 
 - [kbd - @foostan](https://github.com/foostan/kbd)
 - [kiswitch - @kiswitch](https://github.com/kiswitch/kiswitch)
