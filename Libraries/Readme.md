@@ -1,5 +1,3 @@
-# A.K.T.I.O
-
 ## Libraries
 
 - [kbd - @foostan](https://github.com/foostan/kbd)
